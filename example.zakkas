@@ -1,0 +1,12 @@
+वारंवार i = 1 ते 101 तर 
+    IF (i%3==0 AND i%5==0 )THEN 
+		PRINT("FIZZBUZZ\n")
+	ELIF i%3==0 THEN 
+		PRINT("FIZZ\n")
+	ELIF i%5==0 THEN 
+		PRINT("BUZZ\n")
+	ELSE 
+		PRINT(i)
+		PRINT("\n")
+	END
+शेवट
